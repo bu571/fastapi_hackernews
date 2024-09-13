@@ -8,3 +8,4 @@ This project is a FastAPI application that fetches top news stories from the Hac
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
